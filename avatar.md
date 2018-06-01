@@ -12,6 +12,7 @@ _**DRAFT ONLY:**_ Likely to have substantial changes before being finalised.
 5. [The AVATAR Token](#what-is-avatar-token)
     - Token Sale & Distribution
     - Use of the Sale Proceeds
+    - Return on Investment (draft)
 6. [Liberation Online](#liberation-online)
 7. [Where Are We Now?](#where-are-we-now)
 8. [The AVATAR solution](#avatar-solution)
@@ -23,7 +24,9 @@ _**DRAFT ONLY:**_ Likely to have substantial changes before being finalised.
 11. [Roadmap](#roadmap)
 
 ## Disclaimer <a name="disclaimer"></a>
-This whitepaper is currently being written, until it is _**finalised**_ then nothing here can be
+While this document does not preclude Liberation Online from offering holders of AVATAR tokens a share of the revenue generated from the commercial applications of the AVATAR ecosystem, such offer, if any, and the extent thereof will be at the sole and absolute discretion of Liberation Online.
+
+No AVATAR token should be construed, interpreted, classified or treated as enabling, or affording any opportunity to AVATAR token holders to participate in or to receive profits, income, or other payments or returns arising from or in connection with the AVATAR ecosytem, the AVATAR tokens or the proceeds of the AVATAR token sale, or to receive sums paid out of such profits, income, or other payments or returns.  
 
 ## Introduction to Avatar <a name="introduction"></a>
 
