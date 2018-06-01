@@ -33,20 +33,34 @@ AVATAR puts you back in control of your online identity! You should be able to a
 
 In this day in age, it seems everyone knows more about us than we know ourselves. Companies are collecting data about us as much as they can and matching it to our known identities (email addresses, phone numbers, social media accounts etc etc).
 
-We should not be complacent about giving out this information as easily as we do now. The data is sold to thousands of companies from around the world. Companies that we know nothing about, know far to much about ourselves.
+We should not be complacent about giving out this information as easily as we do now. The data is sold to thousands of companies from around the world. Companies that we know nothing about, know far too much about ourselves.
 
 We need more control over what data we give up and who we give it up to. There are of course many reasons that giving up this data is valid but sometimes not in the way you may think. For example, a company asking for your date of birth to prove you are older than 18 before viewing a page could just as easily ask the question are you older than 18. You could confirm this without giving up personal details such as your birthdate (which is used in many fraud and identity thefts).
 
 _**AVATAR provides a better way.**_
 
 ## What is AVATAR? <a name="what-is-avatar"></a>
+AVATAR is an identity manager that...
 
 ## What is the KIWI token? <a name="what-is-kiwi-token"></a>
+The KIWI is a utility token, rather than a security. The KIWI will be used as the preferred payment method in exchange of all products, services and tools being developed by [Liberation Online](#liberation-online) as well as a growing number of other businesses.
+
+The KIWI is an open source mineable ERC20 / ERC918 token. The KIWI is a token that anyone can mine, buy and sell.
+
+For more information, please visit http://thekiwi.online
+
 #### The KIWI Token in AVATAR
+(DRAFT) The KIWI will be the cryptocurrency that powers AVATAR. Companies that wish to utilise AVATAR in their own website and apps will need to spend KIWI to do so.
 
 ## The AVATAR Token <a name="what-is-avatar-token"></a>
 #### Token Sale & Distribution
 #### Use of the Sale Proceeds
+Liberation Online will use all funding received through its share of the crowdfunding proceeds to support ongoing development of the AVATAR ecosystem.
+
+Most of the funding will initially be used for developer salaries and bounties for open-source contributions to AVATAR.
+
+
+
 #### Return on Investment
 
 ## Liberation Online <a name="liberation-online"></a>
@@ -74,5 +88,6 @@ This also provides companies with more sanitised data; that is the information t
 > Get paid for your data. No more middle men selling your data without your knowledge.
 
 ## Adoption and Collaboration <a name="adoption"></a>
+The key to this technology will be the widespread adoption of the AVATAR ecosystem. We will work with a number of providers, developers and integrators to ensure adoption is as easy as possible.
 
 ## Roadmap <a name="roadmap"></a>
