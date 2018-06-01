@@ -54,6 +54,12 @@ For more information, please visit http://thekiwi.online
 
 ## The AVATAR Token <a name="what-is-avatar-token"></a>
 ### Token Sale & Distribution
+We will not be raising funds in the traditional ICO model as we believe this model is flawed and does not protect the token owners enough.
+
+Rather, we have developed a new fund raising model that we have called UTO (Unlimited Token Offer).
+
+For more details on how UTO works please read our whitepaper [here](uto.md)
+
 ### Use of the Sale Proceeds
 Liberation Online will use all funding received through its share of the crowdfunding proceeds to support ongoing development of the AVATAR ecosystem.
 
@@ -62,8 +68,10 @@ Most of the funding will initially be used for developer salaries and bounties f
 ![Use of sale proceeds pie chart](avatar/funds.png)
 
 
-
 ### Return on Investment
+AVATAR token ownership represents your ownership of the AVATAR ecosystem. At any time you like you will be able to sell back your AVATAR tokens to the exchange and receive the equivalent percentage of KIWI and ETH that is held in the contract.
+
+The smart contract that issues AVATAR will also be the payment wallet for the AVATAR ecosystem.
 
 ## Liberation Online <a name="liberation-online"></a>
 
