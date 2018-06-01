@@ -64,6 +64,8 @@ None of your data is stored anywhere but on your own devices. In building up you
 
 You are in complete control as to who can see this information. Much like filling out a traditional form on a website, but we make it much easier for you to decide what information you allow to be sent and to who.
 
+This also provides companies with more sanitised data; that is the information that they receive from you is going to be more accurate. You can update your information with ease at anytime.
+
 #### Personalised Anonymity
 > The connected world your way.
 
