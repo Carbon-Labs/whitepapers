@@ -1,6 +1,5 @@
 # AVATAR
-## A Revolution in Privacy
-### A Liberation Online Product powered by KIWI
+> A Revolution in Privacy
 
 ----
 # Table of Contents
