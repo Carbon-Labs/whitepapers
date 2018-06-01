@@ -1,6 +1,8 @@
 # AVATAR
 > A Revolution in Privacy
 
+_**DRAFT ONLY:**_ Likely to have substantial changes before being finalised.
+
 # Table of Contents
 1. [Disclaimer](#disclaimer)
 2. [Introduction to AVATAR](#introduction)
@@ -21,6 +23,7 @@
 11. [Roadmap](#roadmap)
 
 ## Disclaimer <a name="disclaimer"></a>
+This whitepaper is currently being written, until it is _**finalised**_ then nothing here can be
 
 ## Introduction to Avatar <a name="introduction"></a>
 
