@@ -8,10 +8,10 @@
 4. [What is the KIWI token?](#what-is-kiwi)
 5. [Where are we now?](#where-are-we-now)
 6. [The AVATAR solution](#avatar-solution)
-  1. Secure Login
-  2. Data Protection
-  3. Personalised Anonymity
-  4. Data Monetisation
+    1. Secure Login
+    2. Data Protection
+    3. Personalised Anonymity
+    4. Data Monetisation
 
 ## Disclaimer <a name="disclaimer"></a>
 
