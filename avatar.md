@@ -12,7 +12,7 @@ _**DRAFT ONLY:**_ Likely to have substantial changes before being finalised.
 5. [The AVATAR Token](#what-is-avatar-token)
     - Token Sale & Distribution
     - Use of the Sale Proceeds
-    - Return on Investment (draft)
+    - Return on Investment
 6. [Liberation Online](#liberation-online)
 7. [Where Are We Now?](#where-are-we-now)
 8. [The AVATAR solution](#avatar-solution)
@@ -33,8 +33,16 @@ No AVATAR token should be construed, interpreted, classified or treated as enabl
 ## What is Avatar? <a name="what-is-avatar"></a>
 
 ## What is the KIWI token? <a name="what-is-kiwi-token"></a>
+#### The KIWI Token in AVATAR
+
+## The AVATAR Token <a name="what-is-avatar-token"></a>
+#### Token Sale & Distribution
+#### Use of the Sale Proceeds
+#### Return on Investment
 
 ## Liberation Online <a name="liberation-online"></a>
+
+## Where Are We Now? <a name="where-are-we-now"></a>
 
 ## The AVATAR Solution <a name="avatar-solution"></a>
 
@@ -44,7 +52,5 @@ No AVATAR token should be construed, interpreted, classified or treated as enabl
 #### Data Monetisation
 
 ## Adoption and Collaboration <a name="adoption"></a>
-
-## The KIWI Token in AVATAR <a name="kiwi-in-avatar"></a>
 
 ## Roadmap <a name="roadmap"></a>
