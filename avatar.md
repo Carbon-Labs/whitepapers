@@ -59,15 +59,7 @@ Liberation Online will use all funding received through its share of the crowdfu
 
 Most of the funding will initially be used for developer salaries and bounties for open-source contributions to AVATAR.
 
-![Drag Racing](avatar/funds.png)
-
-| Area  |      %      |
-|----------|:-------------:|
-| Research & Development |  5% |
-| AVATAR Ecosystem Development |    60%  |
-| Business Development | 20% |
-| Marketing | 10% |
-| Legal | 5% |
+![Use of sale proceeds pie chart](avatar/funds.png)
 
 
 
