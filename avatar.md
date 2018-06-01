@@ -53,8 +53,8 @@ For more information, please visit http://thekiwi.online
 (DRAFT) The KIWI will be the cryptocurrency that powers AVATAR. Companies that wish to utilise AVATAR in their own website and apps will need to spend KIWI to do so.
 
 ## The AVATAR Token <a name="what-is-avatar-token"></a>
-#### Token Sale & Distribution
-#### Use of the Sale Proceeds
+### Token Sale & Distribution
+### Use of the Sale Proceeds
 Liberation Online will use all funding received through its share of the crowdfunding proceeds to support ongoing development of the AVATAR ecosystem.
 
 Most of the funding will initially be used for developer salaries and bounties for open-source contributions to AVATAR.
@@ -69,7 +69,7 @@ Most of the funding will initially be used for developer salaries and bounties f
 
 
 
-#### Return on Investment
+### Return on Investment
 
 ## Liberation Online <a name="liberation-online"></a>
 
@@ -77,9 +77,9 @@ Most of the funding will initially be used for developer salaries and bounties f
 
 ## The AVATAR Solution <a name="avatar-solution"></a>
 
-#### Secure Login
+### Secure Login
 > A one click, cryptographically secure login solution that does not require prior registration.
-#### Data Protection
+### Data Protection
 > Your data is yours, you own it and you control it.
 
 None of your data is stored anywhere but on your own devices. In building up your AVATAR profile, you can selectively choose to answer questions that are presented to you. The answers to these questions are stored on your device only.
@@ -88,11 +88,11 @@ You are in complete control as to who can see this information. Much like fillin
 
 This also provides companies with more sanitised data; that is the information that they receive from you is going to be more accurate. You can update your information with ease at anytime.
 
-#### Personalised Anonymity
+### Personalised Anonymity
 > The connected world your way.
 
 
-#### Data Monetisation
+### Data Monetisation
 > Get paid for your data. No more middle men selling your data without your knowledge.
 
 ## Adoption and Collaboration <a name="adoption"></a>
