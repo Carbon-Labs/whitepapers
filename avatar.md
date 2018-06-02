@@ -1,7 +1,9 @@
 # AVATAR
 > A Revolution in Privacy
 
-_**DRAFT ONLY:**_ Likely to have substantial changes before being finalised.
+**Current Status:** DRAFT
+
+Likely to have substantial changes before being finalised.
 
 # Table of Contents
 1. [Disclaimer](#disclaimer)
