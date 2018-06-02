@@ -1,5 +1,5 @@
 # Unlimited Token Offer (UTO)
-> No More ICO's. Unlimited Token Offers introduces a
+> No More ICO's.
 
 _**DRAFT ONLY**_
 
