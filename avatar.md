@@ -96,11 +96,7 @@ For more information, please visit http://thekiwi.online
 
 ## The AVATAR Token <a name="what-is-avatar-token"></a>
 ### Token Sale & Distribution
-We will not be raising funds in the traditional ICO model as we believe this model is flawed and does not protect the token owners enough.
-
-Rather, we have developed a new fund raising model that we have called UTO (Unlimited Token Offer).
-
-For more details on how UTO works please read our whitepaper [here](uto.md).
+We will not be raising funds in the traditional ICO model as we believe this model is flawed and does not protect the token owners enough. Rather, we have developed a new fund raising model that we have called UTO (Unlimited Token Offer). For more details on how UTO works please read our whitepaper [here](uto.md).
 
 For AVATAR, the UTO will be run with the following settings:
 
