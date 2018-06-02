@@ -100,7 +100,22 @@ We will not be raising funds in the traditional ICO model as we believe this mod
 
 Rather, we have developed a new fund raising model that we have called UTO (Unlimited Token Offer).
 
-For more details on how UTO works please read our whitepaper [here](uto.md)
+For more details on how UTO works please read our whitepaper [here](uto.md).
+
+For AVATAR, the UTO will be run with the following settings:
+
+Field | Value
+----------|:---------:
+Token Name  | AVATAR
+Token Symbol | AVATAR
+Decimals | 8
+Number of tokens per ETH | 100
+Cooling off period | 152470 blocks
+Percentage Held | 20%
+
+For clarification, for every 1 ETH invested a total of 100 AVATAR tokens will be created, 80 for the investor and 20 for Liberation Online. The ETH is locked into the contract and is not accessible by anyone including Liberation Online other than by selling AVATAR tokens back to the contract. The sold AVATAR tokens are burned and the equivalent ETH is released to the AVATAR token holder.
+
+We also want to highlight a cooling off period, whereby you can get back all of your ETH that you have invested should you choose to. The cooling off period is specified in blocks but an aproximation of "time" can be caluclated as well.
 
 ### Use of the Sale Proceeds
 Liberation Online will use all funding received through its share of the crowdfunding proceeds to support ongoing development of the AVATAR ecosystem.
