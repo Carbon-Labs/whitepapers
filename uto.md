@@ -22,6 +22,8 @@ _**DRAFT ONLY**_
 #### How does an ICO typically work?
 To be able to understand how a UTO works, we need to first look at how a typical ICO works.
 
+> The following view is representative of the majority of ICOs, however there are examples whose tokens have utility within the ecosystem that they were created. In which case, the ICO token has a more tangible value and usecase.
+
 **A definition first**
 
 An unregulated means by which funds are raised for a new cryptocurrency venture. An Initial Coin Offering (ICO) is used by startups to bypass the rigorous and regulated capital-raising process required by venture capitalists or banks. In an ICO campaign, a percentage of the cryptocurrency is sold to early backers of the project in exchange for legal tender or other cryptocurrencies.
