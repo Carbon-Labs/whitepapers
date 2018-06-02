@@ -40,7 +40,47 @@ We need more control over what data we give up and who we give it up to. There a
 _**AVATAR provides a better way.**_
 
 ## What is AVATAR? <a name="what-is-avatar"></a>
-AVATAR is an identity manager that...
+> AVATAR is an identity manager that puts you in control of your data.
+
+AVATAR allows you to share with clients (websites, app, etc) details about your identity that you choose to share.
+
+The AVATAR ecosystem allows clients to request information directly from you.
+
+You can create as many different AVATARS as you need.
+
+Each of us have different identities depending on what situation we are in. We express ourselves in many different ways. For example, your identity that you show to your friends is different to that you show to your boss.
+
+> An Identity is simply a set of attributes related to an entity.
+
+In our case the entity is your AVATAR and the set of attributes your AVATAR has is defined by you by answering some simple questions. The answers to these questions will become the datapoints that clients can request.
+
+
+As another example let's look at a high level some of the different identities of a Woman:
+
+  - Mother
+  - Daughter
+  - Wife
+  - Friend
+  - Girlfriend
+  - Community Member
+  - Boss
+  - Colleague
+  - and so on.
+
+The same thing goes for when you interact with different clients. You want to be able to provide different dataponts for different situations.
+
+AVATAR is your identity that you are in control of.
+
+As well as managing online identity, AVATAR also provides a quick, easy and secure method of logging in to various clients.
+
+No longer do you need to remember the various username and password combinations that you have setup. You also, do not need to worry about security breeches and people accessing these sites without your knowledge.
+
+_Perhaps you wish to simply comment on a blog post. Rather than having to go through the tedious process of "signing up" to uniquely identify yourself on the website, you can login using your AVATAR (the one you choose to use). You will have instant access along with a unique and secure identity on that system where no one can impersonate you. Whenever you revisit the site, you simply login again using the same AVATAR. No account, no usernames, no passwords, Nothing to remember or forget, NO HASSLE!_
+
+The same AVATAR can be used for as many different websites that you wish.
+
+**AVATARS are both user and site specific.**
+To maintain anonymity as much as possible, your AVATAR always presents the same AVATAR ID to the same client, but an entirely different one to every other client. There is no way for cross-site coupling of AVATAR IDs.
 
 ## What is the KIWI token? <a name="what-is-kiwi-token"></a>
 The KIWI is a utility token, rather than a security. The KIWI will be used as the preferred payment method in exchange of all products, services and tools being developed by [Liberation Online](#liberation-online) as well as a growing number of other businesses.
@@ -76,6 +116,7 @@ The smart contract that issues AVATAR will also be the payment wallet for the AV
 ## Liberation Online <a name="liberation-online"></a>
 
 ## Where Are We Now? <a name="where-are-we-now"></a>
+
 
 ## The AVATAR Solution <a name="avatar-solution"></a>
 
