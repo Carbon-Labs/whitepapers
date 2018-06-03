@@ -46,6 +46,10 @@ You should ask yourself seriously why a company would be selling off their newly
 
 #### How does an UTO work?
 
+At its core, a UTO is a smart contract that can accept funds in exchange of tokens. Additionally, it can also accept funds that are payment for products and services provided by the UTO operator.
+
+There is no time limits on how long the UTO can accept funds in exchange for tokens. However, the UTO itself can be "paused" by the UTO owner.
+
 ### What are the benefits compared to ICO's?
 > It puts more control in the hands of the contributors.
 
