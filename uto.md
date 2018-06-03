@@ -46,7 +46,13 @@ You should ask yourself seriously why a company would be selling off their newly
 
 #### How does an UTO work?
 
-### What are the benefits compared to ICO's?    
+### What are the benefits compared to ICO's?
+> It puts more control in the hands of the contributors.
+
+Contributors can at any stage withdraw their investment less the tokens already assigned to the UTO Beneficiary.
+
+With an ICO, when the token sale is complete, all of the money raised is handed over to the company that launched the ICO. At this point they can simply walk away with the money without producing anything. The incentive to implement the project is diminished when the company already has access to millions of dollars already.
+
 
 ## The Smart Contract <a name="smart-contract"></a>
 

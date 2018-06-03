@@ -135,6 +135,38 @@ The smart contract that issues AVATAR will also be the payment wallet for the AV
 
 ### Secure Login
 > A one click, cryptographically secure login solution that does not require prior registration.
+
+Users are embracing one click social login functionality via Facebook, Google, GitHub etc for its ease of use.
+
+It is easy to understand why&hellip;
+
+Manually authenticating yourself on a website or app is tiresome. Users are usually presented with a form that asks for their username or email address and a password. Or, as an alternative and mentioned above, they may be presented with the option of logging in using one click social login functionality.
+
+So, the user has to answer themselves the following:
+
+1. Do I already have an account for this service?
+2. If so, did I use an email and password, or one of the social login providers to sign up?
+3. If I used an email and password, what is my password?
+
+The user has to do this for every website or app they use.
+
+This is a very tedious process, and it is estimated that the typical user now interacts with over 100 different services. Remembering unique account details for all of these services (many of which are used infrequently) is infeasible. So instead, users use weak easy to remember passwords that they usually use on more than one service.
+
+From a security standpoint this is a disaster.
+
+Even though it is the most common form of authentication currently in use, it is both impractical and prone to security breaches.
+
+Social media login does provide the following benefits:
+
+1. No more form filling.
+2. No need to remember yet another username / password combination.
+3. Quick and easy.
+
+However, it also raises huge privacy concern. The users information is loaded from external providers. These providers are private companies that make money by data mining and selling that data to other companies without your knowledge.
+
+AVATAR solves all of this by bringing together several technologies in a unique way.
+
+
 ### Data Protection
 > Your data is yours, you own it and you control it.
 
@@ -146,6 +178,7 @@ This also provides companies with more sanitised data; that is the information t
 
 ### Personalised Anonymity
 > The connected world your way.
+
 
 
 ### Data Monetisation
