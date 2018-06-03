@@ -156,7 +156,19 @@ From a security standpoint this is a disaster.
 
 Even though it is the most common form of authentication currently in use, it is both impractical and prone to security breaches.
 
-Social media login does provide the following benefits:
+And according to a [survey](http://www.prweb.com/releases/2012/1/prweb9086226.htm) conducted in 2012, users are very resistant to traditional registration processes:
+
+- 86% people are bothered by the need to create new accounts when registering on a website and will change their beahaivour as a result.
+
+  - 54% may leave the site or not return.
+  - 26% go to a different site if possible.
+  - 6% leave/avoid the site.
+  - 14% say they will complete the registration.
+
+- 88% admit to having given incorrect information or left forms incomplete when creating a new account at a website.
+- 90% admit they have left a website if they forgot their password or login information, instead of answering security questions or re-setting their password.
+
+Social media login however, does provide the following benefits:
 
 1. No more form filling.
 2. No need to remember yet another username / password combination.
@@ -164,7 +176,18 @@ Social media login does provide the following benefits:
 
 However, it also raises huge privacy concern. The users information is loaded from external providers. These providers are private companies that make money by data mining and selling that data to other companies without your knowledge.
 
-AVATAR solves all of this by bringing together several technologies in a unique way.
+AVATAR solves all of this by bringing together several technologies to make authenticating with services quick and easy. No need to remember anything. And no need to be worried about data breaches.
+
+The services that wants you to authenticate displays a QR code on the login screen. You use your phone to scan the QR code and can be logged in instantly.
+
+The QR code that is presented is unique everytime it is presented. At a minimum it includes the following:
+
+- service identifier (for websites, this is the website address)
+- nonce
+
+When you scan the QR code, your phone will sign the nonce (signature) and post it back to the service that you wish to access.
+
+The service will receive the nonce, signature and the AVATAR public address. Using these 3 bits of information the service can cryptographically verify that the nonce has been signed correctly and thus you are authenticated.
 
 
 ### Data Protection
