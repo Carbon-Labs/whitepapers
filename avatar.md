@@ -42,7 +42,7 @@ We need more control over what data we give up and who we give it up to. There a
 _**AVATAR provides a better way.**_
 
 ## What is AVATAR? <a name="what-is-avatar"></a>
-> AVATAR is an identity manager that puts you in control of your data.
+> AVATAR is an identity and authentication manager that puts you in control of your data.
 
 AVATAR allows you to share with clients (websites, app, etc) details about your identity that you choose to share.
 
@@ -57,7 +57,7 @@ Each of us have different identities depending on what situation we are in. We e
 In our case the entity is your AVATAR and the set of attributes your AVATAR has is defined by you by answering some simple questions. The answers to these questions will become the datapoints that clients can request.
 
 
-As another example let's look at a high level some of the different identities of a Woman:
+As another example, let's look at some of the different identities of a Woman:
 
   - Mother
   - Daughter
@@ -75,7 +75,7 @@ AVATAR is your identity that you are in control of.
 
 As well as managing online identity, AVATAR also provides a quick, easy and secure method of logging in to various clients.
 
-No longer do you need to remember the various username and password combinations that you have setup. You also, do not need to worry about security breeches and people accessing these sites without your knowledge.
+No longer do you need to remember the various username and password combinations that you have setup. You also, do not need to worry about security breaches and people accessing these sites without your knowledge.
 
 _Perhaps you wish to simply comment on a blog post. Rather than having to go through the tedious process of "signing up" to uniquely identify yourself on the website, you can login using your AVATAR (the one you choose to use). You will have instant access along with a unique and secure identity on that system where no one can impersonate you. Whenever you revisit the site, you simply login again using the same AVATAR. No account, no usernames, no passwords, Nothing to remember or forget, NO HASSLE!_
 
@@ -174,7 +174,9 @@ Social media login however, does provide the following benefits:
 2. No need to remember yet another username / password combination.
 3. Quick and easy.
 
-However, it also raises huge privacy concern. The users information is loaded from external providers. These providers are private companies that make money by data mining and selling that data to other companies without your knowledge.
+However, it also raises huge privacy concerns. The users information is loaded from external providers. These providers are private companies that make money by data mining and selling that data to other companies without your knowledge.
+
+###### AVATAR Login Walkthrough
 
 AVATAR solves all of this by bringing together several technologies to make authenticating with services quick and easy. No need to remember anything. And no need to be worried about data breaches.
 
