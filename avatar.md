@@ -261,6 +261,16 @@ I am sure you are already thinking about the different ways the web could be opt
 ### Data Monetisation
 > Get paid for your data. No more middle men selling your data without your knowledge.
 
+As you are well aware, you are blasted with advertising everywhere on the internet. Most of these ads are provided by a few large players (google, facebook). For them the display of an ad not only makes them money, but also is a data collection point for them. They can and do follow you around the internet allowing advertisers to target you based on what websites you visited (amongst other activities).
+
+>**NOTE:** This should be raising red flags for you already. Your anonymity is being attacked constantly and these companies are in many cases building up false information about you. For example, should you do a google search for cancer treatments, visit several websites related to this and then look into life insurance.. the life insurance companies have access to the fact that you have visited these websites and make assumption that you have been recently diagnosed, the quotes you now receive have been inflated. They do not know, that you were doing research for a friend. They make an incorrect assumption about your health.
+
+Billions of dollars are spent on advertising. Of which you see nothing, even though it is your data that they are using to sell their services.
+
+We are creating a system whereby you can be compensated by providing accurate data about yourself (as little or as much as you wish). You will know exactly how much you will get paid on each website you visit for providing this information.
+
+This is a win-win-win for everyone, the website can customise the experience you have with them uniquely to you, advertisers can provide relevant information to you, and you can earn money directly by giving up the information about yourself that you are willing to give up.
+
 ## Adoption and Collaboration <a name="adoption"></a>
 The key to this technology will be the widespread adoption of the AVATAR ecosystem. We will work with a number of providers, developers and integrators to ensure adoption is as easy as possible.
 
