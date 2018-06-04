@@ -59,7 +59,15 @@ With an ICO, when the token sale is complete, all of the money raised is handed 
 
 
 ## The Smart Contract <a name="smart-contract"></a>
+> The smart contract is currently being developed.
+
+You can follow the development at https://github.com/liberation-online/uto
 
 ## Proof of Concept <a name="poc"></a>
 
 ## Tokens utilising UTO <a name="tokens-utilising-uto"></a>
+
+The first UTO to be launched will be AVATAR.
+
+- More Info: https://www.liberation.online/projects/avatar/
+- Whitepaper: https://github.com/liberation-online/whitepapers/blob/master/avatar.md

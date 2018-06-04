@@ -26,9 +26,7 @@ Likely to have substantial changes before being finalised.
 11. [Roadmap](#roadmap)
 
 ## Disclaimer <a name="disclaimer"></a>
-While this document does not preclude [Liberation Online](#liberation-online) from offering holders of AVATAR tokens a share of the revenue generated from the commercial applications of the AVATAR ecosystem, such offer, if any, and the extent thereof will be at the sole and absolute discretion of Liberation Online.
-
-No AVATAR token should be construed, interpreted, classified or treated as enabling, or affording any opportunity to AVATAR token holders to participate in or to receive profits, income, or other payments or returns arising from or in connection with the AVATAR ecosytem, the AVATAR tokens or the proceeds of the AVATAR token sale, or to receive sums paid out of such profits, income, or other payments or returns.  
+While this document does not preclude [Liberation Online](#liberation-online) from offering holders of AVATAR tokens a share of the revenue generated from the commercial applications of the AVATAR ecosystem, such offer, if any, and the extent thereof will be at the sole and absolute discretion of Liberation Online.  
 
 ## Introduction to AVATAR <a name="introduction"></a>
 AVATAR puts you back in control of your online identity! You should be able to access the internet freely without having to give up your personal information.
@@ -55,7 +53,6 @@ Each of us have different identities depending on what situation we are in. We e
 > An Identity is simply a set of attributes related to an entity.
 
 In our case the entity is your AVATAR and the set of attributes your AVATAR has is defined by you by answering some simple questions. The answers to these questions will become the datapoints that clients can request.
-
 
 As another example, let's look at some of the different identities of a Woman:
 
@@ -87,12 +84,13 @@ To maintain anonymity as much as possible, your AVATAR always presents the same 
 ## What is the KIWI token? <a name="what-is-kiwi-token"></a>
 The KIWI is a utility token, rather than a security. The KIWI will be used as the preferred payment method in exchange of all products, services and tools being developed by [Liberation Online](#liberation-online) as well as a growing number of other businesses.
 
-The KIWI is an open source mineable ERC20 / ERC918 token. The KIWI is a token that anyone can mine, buy and sell.
+The KIWI is an open source mineable ERC20 / ERC918 token that anyone can mine, buy and sell.
 
 For more information, please visit http://thekiwi.online
 
 #### The KIWI Token in AVATAR
-(DRAFT) The KIWI will be the cryptocurrency that powers AVATAR. Companies that wish to utilise AVATAR in their own website and apps will need to spend KIWI to do so.
+The KIWI will be the preferred cryptocurrency that powers AVATAR. Companies that wish to utilise AVATAR in their own website and apps will need to utilise KIWI to do so.
+
 
 ## The AVATAR Token <a name="what-is-avatar-token"></a>
 ### Token Sale & Distribution
@@ -127,9 +125,16 @@ AVATAR token ownership represents your ownership of the AVATAR ecosystem. At any
 The smart contract that issues AVATAR will also be the payment wallet for the AVATAR ecosystem.
 
 ## Liberation Online <a name="liberation-online"></a>
+Liberation Online is the company developing AVATAR. It is also the company that launched the KIWI token.
+
+For more information please visit [http://liberation.online](http://liberation.online)
 
 ## Where Are We Now? <a name="where-are-we-now"></a>
+Currently we are trusting large corporations to keep our data safe and use it in a transparent honest way. We know that this is not the case in reality, we only need to look at recent investigations into the misuse of Facebook Data to see the massive problem here.
 
+We also need to trust a number of smaller websites to make sure they keep our data safe.
+
+Things need to change, we should not have to worry about these things at all. We need to take control and ownership on the security and management of our data.
 
 ## The AVATAR Solution <a name="avatar-solution"></a>
 
@@ -216,7 +221,7 @@ Using a combination of:
 1. Attributes
     - Physical
     - Behaivoural
-2. Adjusters
+2. Adjusters _(temporary overrides of your current avatar settings)_
 3. Influencers
     - Location
     - Weather
@@ -275,3 +280,4 @@ This is a win-win-win for everyone, the website can customise the experience you
 The key to this technology will be the widespread adoption of the AVATAR ecosystem. We will work with a number of providers, developers and integrators to ensure adoption is as easy as possible.
 
 ## Roadmap <a name="roadmap"></a>
+We will be publishing our roadmap shortly and will update here as soon as we do.
