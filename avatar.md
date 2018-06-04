@@ -194,7 +194,7 @@ Of course, if this is the first time they have logged into this website, the web
 
 _This can be done in the traditional manner of form filling, but&hellip;_
 
-The QR code itself can ask for this information automatically, so when you scan the QR code, you can select which information you are happy to give to the website. 
+The QR code itself can ask for this information automatically, so when you scan the QR code, you can select which information you are happy to give to the website.
 
 
 ### Data Protection
@@ -209,6 +209,53 @@ This also provides companies with more sanitised data; that is the information t
 ### Personalised Anonymity
 > The connected world your way.
 
+AVATAR gives the ability to use data related to a user in a way that allows for high levels of relevant personalisation in a manner that allows the user anonymity and complete control over their own data.
+
+Using a combination of:
+
+1. Attributes
+    - Physical
+    - Behaivoural
+2. Adjusters
+3. Influencers
+    - Location
+    - Weather
+4. Qualifiers _(rules based on any of the above dimensions)_
+
+We can allow websites, apps etc to personalise our experience with them without giving up identifiable data.
+
+#### Example Use Cases
+
+**1. Personalised Preference Site Modifier**
+
+Using a combination of a site visitors attributes, adjusters and influencers; the content presented to the visitor will be dynamically generated to better suit their needs.
+
+From as simple as showing where the nearest physical store is to a completely customised experience unique to every visitor which will guarantee a better customer experience and better engagement.
+
+An ecommerce site could automatically show me (as a male) all the male clothing items for sale instead of a generic sale image.
+
+Even better, they could see that I am in London and that it is raining currently and so show me appropriate rainy weather apparel.
+
+A news channel could customise the stories it shows me, if I am not interested in Football, then it would not show me any football related stories.
+
+**2. Dynamic Synergy Networks**
+
+The ability to create networks of people and assets that align with your own interests, attributes etc. For example, a network can be created around all those people that enjoy a particular band and then further segmented down:
+
+- Are attending the next concert in London.
+- That live in SW London and would like to meet up before going to the concert.
+
+**3. More Ideas**
+
+I am sure you are already thinking about the different ways the web could be optimised and personalised to you. Here are just a few more ideas:
+
+- Displaying of information only to those that meet certain conditions.
+- Automatic changing of language on a website or app.
+- Automatic changing of website to assist those with accessibility needs
+- Dating site without the need to create a profile
+- Store finder that shows automatically the nearest store (to my current location, my house, my place of work)
+- Catalogue adjustment incorporating influencers (weather)
+- Advertising Targeting - where you get paid
 
 
 ### Data Monetisation
