@@ -176,7 +176,7 @@ Social media login however, does provide the following benefits:
 
 However, it also raises huge privacy concerns. The users information is loaded from external providers. These providers are private companies that make money by data mining and selling that data to other companies without your knowledge.
 
-###### AVATAR Login Walkthrough
+##### AVATAR Login Walkthrough
 
 AVATAR solves all of this by bringing together several technologies to make authenticating with services quick and easy. No need to remember anything. And no need to be worried about data breaches.
 
