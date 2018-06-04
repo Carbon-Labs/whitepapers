@@ -176,20 +176,25 @@ Social media login however, does provide the following benefits:
 
 However, it also raises huge privacy concerns. The users information is loaded from external providers. These providers are private companies that make money by data mining and selling that data to other companies without your knowledge.
 
-##### AVATAR Login Walkthrough
+#### AVATAR Login Walkthrough
 
 AVATAR solves all of this by bringing together several technologies to make authenticating with services quick and easy. No need to remember anything. And no need to be worried about data breaches.
 
-The services that wants you to authenticate displays a QR code on the login screen. You use your phone to scan the QR code and can be logged in instantly.
+**STEP 1:**
 
-The QR code that is presented is unique everytime it is presented. At a minimum it includes the following:
+User visits website and is presented with a QR code that they can scan with their phone (using the AVATAR app) to authenticate themselves.
 
-- service identifier (for websites, this is the website address)
-- nonce
+**STEP 2:**
 
-When you scan the QR code, your phone will sign the nonce (signature) and post it back to the service that you wish to access.
+The website service validates the authentication and gives access to the user.
 
-The service will receive the nonce, signature and the AVATAR public address. Using these 3 bits of information the service can cryptographically verify that the nonce has been signed correctly and thus you are authenticated.
+> Yes, that is it. From the user standpoint, logging into the website is as easy as scanning a QR code.
+
+Of course, if this is the first time they have logged into this website, the website might ask for additional information, for example a forum will want to know what name you would like to use, or you may have to confirm that you are over the age of 18.
+
+_This can be done in the traditional manner of form filling, but&hellip;_
+
+The QR code itself can ask for this information automatically, so when you scan the QR code, you can select which information you are happy to give to the website. 
 
 
 ### Data Protection
