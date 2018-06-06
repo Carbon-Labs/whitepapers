@@ -65,9 +65,11 @@ You can follow the development at https://github.com/liberation-online/uto
 
 ## Proof of Concept <a name="poc"></a>
 
+Along with development of the smart contract, a dapp will also be available that will demonstrate all features of the smart contract. The development for this has already begun and the core functions are working (buying and selling of tokens, and withdrawal of ETH).
+
 ## Tokens utilising UTO <a name="tokens-utilising-uto"></a>
 
 The first UTO to be launched will be AVATAR.
 
 - More Info: https://www.liberation.online/projects/avatar/
-- Whitepaper: https://github.com/liberation-online/whitepapers/blob/master/avatar.md
+- [Whitepaper](avatar.md)
