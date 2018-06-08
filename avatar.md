@@ -31,7 +31,7 @@ While this document does not preclude [Liberation Online](#liberation-online) fr
 ## Introduction to AVATAR <a name="introduction"></a>
 AVATAR puts you back in control of your online identity! You should be able to access the internet freely without having to give up your personal information.
 
-In this day in age, it seems everyone knows more about us than we know ourselves. Companies are collecting data about us as much as they can and matching it to our known identities (email addresses, phone numbers, social media accounts etc etc).
+In this day and age, it seems everyone knows more about us than we know ourselves. Companies are collecting data about us as much as they can and matching it to our known identities (email addresses, phone numbers, social media accounts etc etc).
 
 We should not be complacent about giving out this information as easily as we do now. The data is sold to thousands of companies from around the world. Companies that we know nothing about, know far too much about ourselves.
 
