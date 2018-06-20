@@ -97,7 +97,7 @@ After this transaction, there would be:
 
 Which means the Token value is still 0.1 as it was before this new purchase.
 
-###UTO Fluidity
+### UTO Fluidity
 You do not need to use a market exchange to cash out your UTO Tokens. At anytime you can "sell" your tokens back to the UTO contract at the current Token Value without any extra fees (just pay for the gas).
 
 Anytime UTO Tokens are sold back to the contract, these tokens are destroyed and the equivalent ETH is sent to the user.
