@@ -48,7 +48,63 @@ You should ask yourself seriously why a company would be selling off their newly
 
 At its core, a UTO is a smart contract that can accept funds in exchange of tokens. Additionally, it can also accept funds that are payment for products and services provided by the UTO operator.
 
+Tokens are only created when eth is received.
+
 There is no time limits on how long the UTO can accept funds in exchange for tokens. However, the UTO itself can be "paused" by the UTO owner.
+
+#### An example
+The UTO is launched with the following characteristics:
+
+* 1 ETH = 100 tokens
+* Company running the UTO retains 10% of the tokens created.
+
+Buyer A sends 10 ETH to the contract, which results in 1000 Tokens being created. 900 are assigned to Buyer A and 100 are assigned to the Company. The ETH itself is locked into the contract. The Company does not have access to the ETH.
+
+At this point each Token is worth 0.01 ETH.
+
+**However**, the UTO contract can receive ETH that is not for token purchases. We refer to these as invoice payments. So carrying on with our example, let's assume that the UTO contract now has 100 ETH. The cost of token purchase is formulated such that the current UTO Token owners potential profit value is not decreased, that is we are guaranteeing that the price of a UTO token can not decrease due to supply. In fact, it can never go backwards in value.
+
+We can calculate the current value of a single token with the following formula:
+
+`TETH / IR = TV`
+
+where:
+
+**TETH** - Total ETH held in UTO\
+**IR** - Current supply of UTO tokens\
+**TV** - Token Value
+
+so:
+
+`100 / 1000 = 0.1`
+
+That is to say that each token is now worth 0.1 ETH. Further purchases of UTO Tokens need to ensure that this value is retained. So the formula for calculating further UTO token purcahses is:
+
+`RPA x (TETH/IR) = PRICE`
+
+where:
+
+**RPA** - Number of new Tokens being purchased
+
+So, if a buyer wants to buy a further 5000 Tokens then the cost is 500 ETH:
+
+`5000 x (100/1000)=500 ETH`
+
+After this transaction, there would be:
+
+**UTO Tokens** - 6000\
+**UTO ETH** - 600 ETH
+
+Which means the Token value is still 0.1 as it was before this new purchase.
+
+###UTO Fluidity
+You do not need to use a market exchange to cash out your UTO Tokens. At anytime you can "sell" your tokens back to the UTO contract at the current Token Value without any extra fees (just pay for the gas).
+
+Anytime UTO Tokens are sold back to the contract, these tokens are destroyed and the equivalent ETH is sent to the user.
+
+The UTO company has to follow the exact same procedure to access the ETH as well. The ETH is locked into the contract. There is no way for the UTO company to access the ETH without selling tokens.
+
+
 
 ### What are the benefits compared to ICO's?
 > It puts more control in the hands of the contributors.
@@ -56,6 +112,10 @@ There is no time limits on how long the UTO can accept funds in exchange for tok
 Contributors can at any stage withdraw their investment less the tokens already assigned to the UTO Beneficiary.
 
 With an ICO, when the token sale is complete, all of the money raised is handed over to the company that launched the ICO. At this point they can simply walk away with the money without producing anything. The incentive to implement the project is diminished when the company already has access to millions of dollars already.
+
+> No need for an exchange to buy and sell tokens.
+
+> The company who launches a UTO is motivated to increase the value of the tokens.
 
 
 ## The Smart Contract <a name="smart-contract"></a>
