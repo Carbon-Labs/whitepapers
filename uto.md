@@ -104,8 +104,6 @@ Anytime UTO Tokens are sold back to the contract, these tokens are destroyed and
 
 The UTO company has to follow the exact same procedure to access the ETH as well. The ETH is locked into the contract. There is no way for the UTO company to access the ETH without selling tokens.
 
-
-
 ### What are the benefits compared to ICO's?
 > It puts more control in the hands of the contributors.
 
@@ -115,13 +113,22 @@ With an ICO, when the token sale is complete, all of the money raised is handed 
 
 > No need for an exchange to buy and sell tokens.
 
+Because you can always sell your tokens back to the contract, there is no need for an exchange. This also means that the token is less prone to market manipulation, we say less prone because we can not stop anyone from putting the token up for trade, however, we would not be actively pushing to be listed on any exchanges.
+
+> The valuation of the token is locked in.
+
+The token valuation is real and locked into the contract, auditing this valuation is simple and can be done by anyone at anytime. The valuation is not prone to large swings, it is pegged to the ETH held within the contract.
+
 > The company who launches a UTO is motivated to increase the value of the tokens.
+
+Because the company who owns the UTO contract has to sell the tokens they hold to access the ETH, they have a strong incentive to ensure that the people see value in what they are doing and continue to buy more UTO tokens.
 
 
 ## The Smart Contract <a name="smart-contract"></a>
 > The smart contract is currently being developed.
 
-You can follow the development at https://github.com/liberation-online/uto
+The UTO smart contract is a single ERC20 compatible smart contract. It is well documented, has a full suite of tests and will be externally audited before being launched on the mainnet.
+
 
 ## Proof of Concept <a name="poc"></a>
 
