@@ -9,13 +9,13 @@ Likely to have substantial changes before being finalised.
 1. [Disclaimer](#disclaimer)
 2. [Introduction to AVATAR](#introduction)
 3. [What is AVATAR?](#what-is-avatar)
-4. [What is the KIWI Token?](#what-is-kiwi-token)
-    - The KIWI Token in AVATAR
+4. [What is the CARBON Token?](#what-is-carbon-token)
+    - CARBON Token in AVATAR
 5. [The AVATAR Token](#what-is-avatar-token)
     - Token Sale & Distribution
     - Use of the Sale Proceeds
     - Return on Investment
-6. [Liberation Online](#liberation-online)
+6. [Genesys Labs](#genesys-labs)
 7. [Where Are We Now?](#where-are-we-now)
 8. [The AVATAR solution](#avatar-solution)
     1. Secure Login
@@ -26,7 +26,7 @@ Likely to have substantial changes before being finalised.
 11. [Roadmap](#roadmap)
 
 ## Disclaimer <a name="disclaimer"></a>
-While this document does not preclude [Liberation Online](#liberation-online) from offering holders of AVATAR tokens a share of the revenue generated from the commercial applications of the AVATAR ecosystem, such offer, if any, and the extent thereof will be at the sole and absolute discretion of Liberation Online.  
+While this document does not preclude [Genesys Labs](#genesys-labs) from offering holders of AVATAR tokens a share of the revenue generated from the commercial applications of the AVATAR ecosystem, such offer, if any, and the extent thereof will be at the sole and absolute discretion of Genesys Labs.  
 
 ## Introduction to AVATAR <a name="introduction"></a>
 AVATAR puts you back in control of your online identity! You should be able to access the internet freely without having to give up your personal information.
@@ -81,15 +81,13 @@ The same AVATAR can be used for as many different websites that you wish.
 **AVATARS are both user and site specific.**
 To maintain anonymity as much as possible, your AVATAR always presents the same AVATAR ID to the same client, but an entirely different one to every other client. There is no way for cross-site coupling of AVATAR IDs.
 
-## What is the KIWI token? <a name="what-is-kiwi-token"></a>
-The KIWI is a utility token, rather than a security. The KIWI will be used as the preferred payment method in exchange of all products, services and tools being developed by [Liberation Online](#liberation-online) as well as a growing number of other businesses.
+## What is the CARBON token? <a name="what-is-carbon-token"></a>
+CARBON is a utility token, rather than a security. CARBON will be used as the preferred payment method in exchange of all products, services and tools being developed by [Genesys Labs](#genesys-labs) as well as a growing number of other businesses.
 
-The KIWI is an open source mineable ERC20 / ERC918 token that anyone can mine, buy and sell.
+For more information, please visit http://carbontoken.info
 
-For more information, please visit http://thekiwi.online
-
-#### The KIWI Token in AVATAR
-The KIWI will be the preferred cryptocurrency that powers AVATAR. Companies that wish to utilise AVATAR in their own website and apps will need to utilise KIWI to do so.
+#### CARBON Token in AVATAR
+CARBON will be the preferred cryptocurrency that powers AVATAR. Companies that wish to utilise AVATAR in their own website and apps will need to utilise CARBON to do so.
 
 
 ## The AVATAR Token <a name="what-is-avatar-token"></a>
@@ -103,16 +101,16 @@ Field | Value
 Token Name  | AVATAR
 Token Symbol | AVATAR
 Decimals | 8
-Number of tokens per ETH | 100
+Number of tokens per ZIL | 100
 Cooling off period | 152470 blocks
 Percentage Held | 20%
 
-For clarification, for every 1 ETH invested a total of 100 AVATAR tokens will be created, 80 for the investor and 20 for Liberation Online. The ETH is locked into the contract and is not accessible by anyone including Liberation Online other than by selling AVATAR tokens back to the contract. The sold AVATAR tokens are burned and the equivalent ETH is released to the AVATAR token holder.
+For clarification, for every 1 ZIL invested a total of 100 AVATAR tokens will be created, 80 for the investor and 20 for Genesys Labs. The ZIL is locked into the contract and is not accessible by anyone including Genesys Labs other than by selling AVATAR tokens back to the contract. The sold AVATAR tokens are burned and the equivalent ZIL is released to the AVATAR token holder.
 
-We also want to highlight a cooling off period, whereby you can get back all of your ETH that you have invested should you choose to. The cooling off period is specified in blocks but an aproximation of "time" can be caluclated as well.
+We also want to highlight a cooling off period, whereby you can get back all of your ZIL that you have invested should you choose to. The cooling off period is specified in blocks but an aproximation of "time" can be caluclated as well.
 
 ### Use of the Sale Proceeds
-Liberation Online will use all funding received through its share of the crowdfunding proceeds to support ongoing development of the AVATAR ecosystem.
+Genesys Labs will use all funding received through its share of the crowdfunding proceeds to support ongoing development of the AVATAR ecosystem.
 
 Most of the funding will initially be used for developer salaries and bounties for open-source contributions to AVATAR.
 
@@ -120,12 +118,12 @@ Most of the funding will initially be used for developer salaries and bounties f
 
 
 ### Return on Investment
-AVATAR token ownership represents your ownership of the AVATAR ecosystem. At any time you like you will be able to sell back your AVATAR tokens to the exchange and receive the equivalent percentage of KIWI and ETH that is held in the contract.
+AVATAR token ownership represents your ownership of the AVATAR ecosystem. At any time you like you will be able to sell back your AVATAR tokens to the exchange and receive the equivalent percentage of CARBON and ZIL that is held in the contract.
 
 The smart contract that issues AVATAR will also be the payment wallet for the AVATAR ecosystem.
 
-## Liberation Online <a name="liberation-online"></a>
-Liberation Online is the company developing AVATAR. It is also the company that launched the KIWI token.
+## Genesys Labs <a name="liberation-online"></a>
+Genesys Labs is the company developing AVATAR. It is also the company that launched the CARBON token.
 
 For more information please visit [http://liberation.online](http://liberation.online)
 

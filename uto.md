@@ -13,7 +13,7 @@ _**DRAFT ONLY**_
 3. [Proof of Concept.](#poc)
     1. A simple dapp
 4. [Tokens utilising UTO](#tokens-utilising-uto)
-    1. AVATAR - Liberation Online
+    1. AVATAR - Genesys Labs
 
 ## Unlimited Token Offer (UTO)<a name="uto"></a>
 
@@ -138,5 +138,4 @@ Along with development of the smart contract, a dapp will also be available that
 
 The first UTO to be launched will be AVATAR.
 
-- More Info: https://www.liberation.online/projects/avatar/
 - [Whitepaper](avatar.md)
