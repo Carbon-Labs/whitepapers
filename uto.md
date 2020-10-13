@@ -3,6 +3,8 @@
 
 _**DRAFT ONLY**_
 
+Likely to have substantial changes before being finalised.
+
 # Table of Contents
 1. [Unlimited Token Offer (UTO)](#uto)
     1. What is an UTO?
@@ -127,7 +129,7 @@ Because the company who owns the UTO contract has to sell the tokens they hold t
 ## The Smart Contract <a name="smart-contract"></a>
 > The smart contract is currently being developed.
 
-The UTO smart contract is a single ERC20 compatible smart contract. It is well documented, has a full suite of tests and will be externally audited before being launched on the mainnet.
+The UTO smart contract is a single ZRC-2 compatible smart contract. It is well documented, has a full suite of tests and will be externally audited before being launched on the mainnet.
 
 
 ## Proof of Concept <a name="poc"></a>
