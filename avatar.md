@@ -26,7 +26,7 @@ Likely to have substantial changes before being finalised.
 11. [Roadmap](#roadmap)
 
 ## Disclaimer <a name="disclaimer"></a>
-While this document does not preclude [Carbon Labs](#carbon-labs) from offering holders of AVATAR tokens a share of the revenue generated from the commercial applications of the AVATAR ecosystem, such offer, if any, and the extent thereof will be at the sole and absolute discretion of Genesys Labs.  
+While this document does not preclude [Carbon Labs](#carbon-labs) from offering holders of AVATAR tokens a share of the revenue generated from the commercial applications of the AVATAR ecosystem, such offer, if any, and the extent thereof will be at the sole and absolute discretion of Carbon Labs.  
 
 ## Introduction to AVATAR <a name="introduction"></a>
 AVATAR puts you back in control of your online identity! You should be able to access the internet freely without having to give up your personal information.
@@ -82,7 +82,7 @@ The same AVATAR can be used for as many different websites that you wish.
 To maintain anonymity as much as possible, your AVATAR always presents the same AVATAR ID to the same client, but an entirely different one to every other client. There is no way for cross-site coupling of AVATAR IDs.
 
 ## What is the CARBON token? <a name="what-is-carbon-token"></a>
-CARBON is a utility token, rather than a security. CARBON will be used as the preferred payment method in exchange of all products, services and tools being developed by [Genesys Labs](#genesys-labs) as well as a growing number of other businesses.
+CARBON is a utility token, rather than a security. CARBON will be used as the preferred payment method in exchange of all products, services and tools being developed by [Carbon Labs](#carbon-labs) as well as a growing number of other businesses.
 
 For more information, please visit http://carbontoken.info
 
