@@ -15,7 +15,7 @@ Likely to have substantial changes before being finalised.
     - Token Sale & Distribution
     - Use of the Sale Proceeds
     - Return on Investment
-6. [Genesys Labs](#genesys-labs)
+6. [Carbon Labs](#carbon-labs)
 7. [Where Are We Now?](#where-are-we-now)
 8. [The AVATAR solution](#avatar-solution)
     1. Secure Login
@@ -26,7 +26,7 @@ Likely to have substantial changes before being finalised.
 11. [Roadmap](#roadmap)
 
 ## Disclaimer <a name="disclaimer"></a>
-While this document does not preclude [Genesys Labs](#genesys-labs) from offering holders of AVATAR tokens a share of the revenue generated from the commercial applications of the AVATAR ecosystem, such offer, if any, and the extent thereof will be at the sole and absolute discretion of Genesys Labs.  
+While this document does not preclude [Carbon Labs](#carbon-labs) from offering holders of AVATAR tokens a share of the revenue generated from the commercial applications of the AVATAR ecosystem, such offer, if any, and the extent thereof will be at the sole and absolute discretion of Genesys Labs.  
 
 ## Introduction to AVATAR <a name="introduction"></a>
 AVATAR puts you back in control of your online identity! You should be able to access the internet freely without having to give up your personal information.
@@ -122,10 +122,10 @@ AVATAR token ownership represents your ownership of the AVATAR ecosystem. At any
 
 The smart contract that issues AVATAR will also be the payment wallet for the AVATAR ecosystem.
 
-## Genesys Labs <a name="liberation-online"></a>
-Genesys Labs is the company developing AVATAR. It is also the company that launched the CARBON token.
+## Carbon Labs <a name="carbon-labs"></a>
+Carbon Labs is the company developing AVATAR. It is also the company that launched the CARBON token.
 
-For more information please visit [http://liberation.online](http://liberation.online)
+For more information please visit [http://carbontoken.info](http://carbontoken.info)
 
 ## Where Are We Now? <a name="where-are-we-now"></a>
 Currently we are trusting large corporations to keep our data safe and use it in a transparent honest way. We know that this is not the case in reality, we only need to look at recent investigations into the misuse of Facebook Data to see the massive problem here.
