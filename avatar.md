@@ -105,12 +105,12 @@ Number of tokens per ZIL | 100
 Cooling off period | 152470 blocks
 Percentage Held | 20%
 
-For clarification, for every 1 ZIL invested a total of 100 AVATAR tokens will be created, 80 for the investor and 20 for Genesys Labs. The ZIL is locked into the contract and is not accessible by anyone including Genesys Labs other than by selling AVATAR tokens back to the contract. The sold AVATAR tokens are burned and the equivalent ZIL is released to the AVATAR token holder.
+For clarification, for every 1 ZIL invested a total of 100 AVATAR tokens will be created, 80 for the investor and 20 for Carbon Labs. The ZIL is locked into the contract and is not accessible by anyone including Carbon Labs other than by selling AVATAR tokens back to the contract. The sold AVATAR tokens are burned and the equivalent ZIL is released to the AVATAR token holder.
 
 We also want to highlight a cooling off period, whereby you can get back all of your ZIL that you have invested should you choose to. The cooling off period is specified in blocks but an aproximation of "time" can be caluclated as well.
 
 ### Use of the Sale Proceeds
-Genesys Labs will use all funding received through its share of the crowdfunding proceeds to support ongoing development of the AVATAR ecosystem.
+Carbon Labs will use all funding received through its share of the crowdfunding proceeds to support ongoing development of the AVATAR ecosystem.
 
 Most of the funding will initially be used for developer salaries and bounties for open-source contributions to AVATAR.
 
